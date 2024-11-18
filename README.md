@@ -144,7 +144,7 @@ void loop()
 ![WhatsApp Image 2024-11-16 at 15 01 56_a6532035](https://github.com/user-attachments/assets/27e58d84-b1a7-4a96-9843-2e0a017d0d6a)
 
 # RESULT:
-Thus the soil moisture values are updated in the Thing speak cloud using ESP32 controller.
+Thus the soil moisture values are updated in the Thing speak cloud using ESP32 controller..
 
 
 
